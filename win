@@ -1,0 +1,8 @@
+def win 
+	puts "we won"
+end
+
+
+win
+win
+win
